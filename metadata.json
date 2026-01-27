@@ -1,0 +1,5 @@
+{
+  "name": "Hexa-Scrabble",
+  "description": "A multiplayer-inspired hexagonal word game where players place letters on a hex grid to form words and score points with modifiers.",
+  "requestFramePermissions": []
+}
